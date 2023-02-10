@@ -1,1 +1,1 @@
-Differente Godots projects
+Different Godots projects
